@@ -9,10 +9,10 @@ This project applies Bayesian Machine Learning to deepfake image detection, goin
 Traditional deepfake detectors usually output a hard label or a single probability score, but they do not tell users how much to trust that prediction. In domains such as journalism, legal forensics, and content moderation, a confident wrong answer can be more harmful than an honest "I’m not sure." This project explores whether Bayesian approaches can improve uncertainty awareness in deepfake detection.
 
 ## My Contribution
-- Contributed to model evaluation and uncertainty-analysis workflow
-- Helped organize result interpretation across baseline and Bayesian models
-- Supported README/chart structuring for portfolio-facing presentation
-- Contributed to framing deployment-oriented insights such as reject option and human-in-the-loop usage
+- Built the Streamlit demo to make model predictions and uncertainty outputs interactive and user-facing
+- Led feature extraction with a pretrained Xception backbone to generate the image representations used by downstream models
+- Contributed to evaluation and comparison across linear, Naive Bayes, MC Dropout, and variational inference models
+- Helped interpret results from a deployment perspective, including selective prediction, reject option, and human-in-the-loop usage
 
 ## Team Attribution
 This repository is a cleaned personal portfolio version of a team project completed collaboratively with Anais Morales, Gaoyuan Gu, and Khalil He. This version is organized to highlight the project methodology, evaluation results, demo, and my specific contributions.
