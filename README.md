@@ -17,7 +17,6 @@ Traditional deepfake detectors usually output a hard label or a single probabili
 ## Team Attribution
 This repository is a cleaned personal portfolio version of a team project completed collaboratively with Anais Morales, Gaoyuan Gu, and Khalil He. This version is organized to highlight the project methodology, evaluation results, demo, and my specific contributions.
 
-
 ---
 ## Future Expansion
 - More Data for Robustness
