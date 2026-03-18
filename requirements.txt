@@ -1,0 +1,15 @@
+torch
+torchvision
+torchaudio
+numpy
+pandas
+scikit-learn
+Pillow
+tqdm
+opencv-python
+facenet-pytorch
+jupyter
+matplotlib
+timm
+streamlit>=1.35.0
+altair>=5.0.0
